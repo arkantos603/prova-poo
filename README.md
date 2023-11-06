@@ -1,3 +1,3 @@
 Dupla:
-João Carlos
+João Carlos e
 Daniel Neiva
